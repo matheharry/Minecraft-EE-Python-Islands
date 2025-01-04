@@ -1,0 +1,114 @@
+﻿item.sugar.name=Sandwich
+item.phantom_membrane.name=Agentenlizenz
+item.nautilus_shell.name=Luftwürdigkeitsurkunde
+item.prismarine_crystals.name=Apfel
+item.nether_wart.name=Zauberbuch
+item.elytra.name=Roben
+item.golden_helmet.name=Krone
+tile.element_constructor.name=Förderband
+tile.coral_block.red_dead.name=Fundstück
+
+item.fishing_rod.name=Call Agent
+action.interact.fishing=Call Agent
+
+
+900020=§fSprich mit Jessie
+900030=§fSprich mit Say und Variablenforschern.\t###Insel 1 Anzeigetafeltitel
+900040=§fHol dir deine Agentenlizenz
+900050=§fSprich mit dem Brückenbauer
+900060=§fSprich mit dem Landarbeiter
+900070=§fSprich mit dem Bauern
+900080=§fErledige die landwirtschaftliche Aufgabe
+900090=§fSprich mit dem Brückenbauer
+900100=§fBesuche die Waldinsel
+900110=§fErledige die Waldaufgabe
+900111=§fRepariere die Leitern
+900112=§fSammle 5 Äpfel
+900113=§fGehe zurück zu Nicole
+900120=§ fReise zur Mineninsel
+900130=§fErledige die Minenaufgabe
+900140=§fSprich mit der Zaubererin
+900150=§fSprich mit dem Häuptling
+900190=§fWelt abgeschlossen!
+
+objective=§l§6- Aktuelle Aufgabe -§r
+
+200010=§fSprich mit dem Bürgermeister   ## #Insel 2 Anzeigetafeltitel
+200020=§f Sprich mit Brian dem Wissenschaftler
+200030=§fBesuche die Mine und sprich mit dem Bergmann
+200040=§ fPrüfe den Boden der Mine
+200050=§fGehe zum Bauernhof und in den Wald, um Vorräte zu erhalten
+200060=§fHilf Peter dem Bauern, schlechtes Saatgut zu finden
+200070=§fSammle Holz aus dem Wald
+200080=§fGehe den Minenschacht hinunter
+200090=§fBaue 3 Eisenerze mit deinem Agenten ab
+200100=§ fBring das Eisenerz zum Schmied
+200110=§fPrüfe die Reinheit des Eisenerzes
+200120=§fBring die Eisenbarren zum Bürgermeister
+200130=§fWelt abgeschlossen!
+
+
+300000=§fSprich mit Captain Pappert   ## #Insel 3 Anzeigetafeltitel
+300003=§fDecke die Luken ab
+300005=§fBaue einen Steg auf die Insel
+300010=§fSprich mit dem König
+300020=§fSprich mit der Zaubererin in ihrem Turm
+300030=§fFinde das Zauberbuch in der Bibliothek
+300035=§fGehe zurück zur Zaubererin
+300040=§fBring das Buch zur Zaubererin
+300050=§fGehe zur Mine, um Gold zu finden
+300060=§fHole Holz aus dem Wald
+300070=§fGehe zur Mine, um Gold zu erhalten
+300075=§fSprich mit dem Minen Manager
+300080=§fSammle Gold aus der Mine
+300090=§fBring das Gold zur Zaubererin
+300100=§fSprich mit dem Bauern auf dem Bauernhof
+300105=§fSammle Weizen für den Bauern
+300110=§fBring die Wolle zur Zaubererin
+300120=§fLiefere alles an den König
+300130=§fWelt abgeschlossen!
+
+400000=§fSprich mit dem Premierminister   ###Insel 4 Anzeigetafeltitel
+400010=§fSprich mit dem Minenmanager
+400015=§fBaue eine Brücke zur fernen Insel
+400020=§fSprich mit Frankie im Minenkontrollraum
+400025=§fVerwende deinen Agenten, um die Erze zu sortieren
+400030=§fBesuche den Botanischen Garten
+400035=§fPflücke 4 Mohnblumen für den Gärtner
+400040=§fGehe mit den Materialien zur Luftschifffabrik
+400050=§fSprich mit dem Fabrikarbeiter
+400055=§fRepariere der Löcher im Luftschiff
+400060=§fÜbergib die Urkunde dem Premierminister
+400065=§fWelt abgeschlossen!
+
+
+
+500000=§fSprich mit dem Premierminister   ###Insel 5 Anzeigetafeltitel
+500010=§fGehe zur Teleskopinsel
+500015=§fBaue die Teleskopstützen
+500020=§fGehe zum Zentrum für Computerforschung
+500025=§fEntschlüssle die Computernachricht
+500030=§fGehe zum Teleskopkontrollraum
+500040=§fSpringe das Teleskop hoch
+500050=§fGehe zum Kraftwerk
+500055=§fVerlege ein Kabel zum Teleskop
+500060=§fInformiere den Premierminister
+500070=§fWelt abgeschlossen!
+
+
+
+600000=§fSprich mit dem Premierminister   ###Insel 6 Anzeigetafeltitel
+600010=§fSprich mit Davin im Weltraumzentrum
+600015=§fUntersuche die Blumen
+600020=§fGehe zur Ausgrabungsstätte
+600025=§fLege die versteckten Fundstücke frei
+600030=§fGehe zur Rakete im Weltraumzentrum
+600040=§fRepariere die Rakete
+600050=§fGehe zur Start- und Landebahn des Flughafens
+600055=§fStreiche die Landebahn
+600060=§fInformiere den Premierminister
+600070=§fWelt abgeschlossen!
+
+
+
+700000=§fErkunde die Insel  ## #Insel 7 Anzeigetafeltitel
